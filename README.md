@@ -1,9 +1,16 @@
 # Fashino-Power-BI-Dashboard
 
+Hi, Welcome! This repository is created for a Power BI dashboard as a portfolio project. Please take a moment to explore the surroundings, and feel free to reach out if you have any questions. Your feedback is highly valued and appreciated. I look forward to hearing from you.
+
 #Overview - 
 Fashino is an e-commerce store that sells clothing, electronics, and furniture. This Power BI dashboard offers a high-level yet detailed view of Fashino's performance. It's designed for executives and decision-makers to track, analyze, and make informed decisions regarding the profitability, and performance of the store.
 
 #Project - 
+
+- Description: Utilizing sales/order data to create informative visual dashboards.
+- Tools Utilized: Excel, and Power BI
+- Task: Fictional task to analyze a bicycle store's sales data between 2016 and 2019.
+
 Dashboard Components - 
 1. Profit/Loss -
   - Card visuals displaying  total profit, quantity, and order amount
