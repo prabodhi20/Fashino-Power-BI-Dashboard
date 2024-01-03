@@ -9,7 +9,7 @@ Fashino is an e-commerce store that sells clothing, electronics, and furniture. 
 
 - Description: Utilizing sales/order data to create informative visual dashboards.
 - Tools Utilized: Excel, and Power BI
-- Task: Fictional task to analyze a bicycle store's sales data between 2016 and 2019.
+- Task: To analyze a performance, total profit/loss and order amount, payment of store with 2018 sales data.
 
 Dashboard Components - 
 1. Profit/Loss -
